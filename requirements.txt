@@ -1,0 +1,13 @@
+# Deep Learning & Computer Vision
+ultralytics
+opencv-python
+
+# Web Dashboard
+streamlit
+
+# Data Processing & Mathematics
+numpy
+pandas
+
+# Plotting & Visualization
+matplotlib
